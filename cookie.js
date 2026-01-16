@@ -82,7 +82,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: ['www.little-delicious.co.uk'],
+    allowedDomains: [],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://www.little-delicious.co.uk/priv-pol', // Add your full privacy policy URL here
