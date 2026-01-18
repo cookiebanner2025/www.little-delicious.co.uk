@@ -3635,6 +3635,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
             padding: 15px;
             flex-direction: column;
             width: calc(100% - 30px);
+            margin-bottom: 27px;
             ${config.behavior.bannerPosition === 'left' ? 'left: 15px;' : 'right: 0px;'}
         }
         
