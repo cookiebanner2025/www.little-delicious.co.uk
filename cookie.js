@@ -178,7 +178,7 @@ clarityConfig: {
         
         showFloatingButton: true,
         showAdminButton: false,
-        floatingButtonPosition: 'right',
+        floatingButtonPosition: 'left',
         adminButtonPosition: 'left',
         bannerPosition: 'right',
 
