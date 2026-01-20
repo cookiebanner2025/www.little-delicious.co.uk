@@ -3167,7 +3167,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
     /* Floating Settings Button */
     .cookie-settings-button {
         position: fixed;
-        bottom: 30px;
+        bottom: 10px;
         ${config.behavior.floatingButtonPosition === 'left' ? 'left: 30px;' : 'right: 30px;'}
         width: ${config.floatingButtonStyle.size};
         height: ${config.floatingButtonStyle.size};
